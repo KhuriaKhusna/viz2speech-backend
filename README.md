@@ -1,2 +1,2 @@
 # viz2speech-backend
-Backen aplikasi viz2speech
+Backend aplikasi viz2speech
